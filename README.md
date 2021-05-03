@@ -1,1 +1,1 @@
-Experiment with new C# features to understand better how do they work.
+Experiment with new C# features to understand how do they work.
