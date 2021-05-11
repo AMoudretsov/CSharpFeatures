@@ -1,7 +1,7 @@
 ﻿using System;
 using Xunit;
 
-namespace CSharp7Features.Tests.ThrowExpressions
+namespace CSharp70Features.Tests.ThrowExpressions
 {
     public class ThrowExpressionsTests
     {

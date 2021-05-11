@@ -1,6 +1,6 @@
 ﻿using Xunit;
 
-namespace CSharp7Features.Tests.Literals
+namespace CSharp70Features.Tests.Literals
 {
     public class LiteralsTests
     {

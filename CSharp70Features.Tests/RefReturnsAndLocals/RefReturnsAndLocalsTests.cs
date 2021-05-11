@@ -1,7 +1,7 @@
 ﻿using System;
 using Xunit;
 
-namespace CSharp7Features.Tests.RefReturnsAndLocals
+namespace CSharp70Features.Tests.RefReturnsAndLocals
 {
     public class RefReturnsAndLocalsTests
     {

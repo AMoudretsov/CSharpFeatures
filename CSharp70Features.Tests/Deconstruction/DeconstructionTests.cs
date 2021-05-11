@@ -1,6 +1,6 @@
 ﻿using Xunit;
 
-namespace CSharp7Features.Tests.Deconstruction
+namespace CSharp70Features.Tests.Deconstruction
 {
     public class DeconstructionTests
     {

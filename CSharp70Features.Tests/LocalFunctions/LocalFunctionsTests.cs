@@ -2,7 +2,7 @@
 using System.Linq;
 using Xunit;
 
-namespace CSharp7Features.Tests.LocalFunctions
+namespace CSharp70Features.Tests.LocalFunctions
 {
     public class LocalFunctionsTests
     {

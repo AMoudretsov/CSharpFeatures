@@ -1,6 +1,6 @@
 ﻿using Xunit;
 
-namespace CSharp7Features.Tests.ExpressionBodiedMembers
+namespace CSharp70Features.Tests.ExpressionBodiedMembers
 {
     public class ExpressionBodiedMembersTests
     {

@@ -1,6 +1,6 @@
 ﻿using Xunit;
 
-namespace CSharp7Features.Tests.OutVariables
+namespace CSharp70Features.Tests.OutVariables
 {
     public class OutVariablesTests
     {

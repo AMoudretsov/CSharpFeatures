@@ -1,7 +1,7 @@
 ﻿using System;
 using Xunit;
 
-namespace CSharp7Features.Tests.PatternMatching
+namespace CSharp70Features.Tests.PatternMatching
 {
     public class PatternMatchingTests
     {

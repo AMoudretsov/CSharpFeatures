@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using Xunit;
 
-namespace CSharp7Features.Tests.Tuples
+namespace CSharp70Features.Tests.Tuples
 {
     public class TuplesTests
     {
